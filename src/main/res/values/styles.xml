@@ -2,7 +2,7 @@
 
     <!-- general styles for the action bar -->
 	<declare-styleable name="AppTheme">
-		<attr name="switchStyle" format="reference" />
+	<!--	<attr name="switchStyle" format="reference" />-->
 	</declare-styleable>
 
     <!--
